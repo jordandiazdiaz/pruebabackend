@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Diaz\\Downloads\\ReactWithCore\\ReactWithCore.Server\\..\\reactwithcore.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
