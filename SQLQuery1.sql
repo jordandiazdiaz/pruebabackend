@@ -1,4 +1,4 @@
-﻿--USE DATABASE ShoppingCartReact
+﻿--USE DATABASE Cart
 
 CREATE TABLE Products(Id INT PRIMARY KEY IDENTITY(1,1), Nombre VARCHAR(100), Precio DECIMAL(18,2), Stock INT, FechaRegistro DATETIME);
 
